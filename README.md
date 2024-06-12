@@ -47,5 +47,5 @@ python bot.py
 
 # Built With
 
-- [Python 3.11.5](https://www.python.org/)
+- [Python 3.8.10](https://www.python.org/)
 
